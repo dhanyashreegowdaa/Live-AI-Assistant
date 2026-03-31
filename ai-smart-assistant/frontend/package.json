@@ -1,0 +1,20 @@
+{
+  "name": "ai-smart-assistant-frontend",
+  "version": "1.0.0",
+  "description": "React/Next.js frontend for AI Smart Assistant",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "next": "^13.0.0",
+    "axios": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
